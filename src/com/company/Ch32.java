@@ -1,11 +1,12 @@
 package com.company;
+
 import java.util.Scanner;
 
 public class Ch32 {
     public static void main(String[] args) {
 
         //Temperature converter
-        //1C = 3F
+        //1C = 1.8F
 
         int c;
         double f;
